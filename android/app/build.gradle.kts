@@ -40,7 +40,7 @@ android {
 
     applicationVariants.all {
         outputs.all {
-            val appName = "LifeFlow AI"
+            val appName = "Bhinnashad"
             
             (this as com.android.build.gradle.internal.api.BaseVariantOutputImpl).outputFileName =
                 "${appName}.apk"
