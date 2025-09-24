@@ -37,7 +37,7 @@ class _MyHomePageState extends State<MyHomePage> {
     super.initState();
     controller = WebViewController()
       ..setJavaScriptMode(JavaScriptMode.unrestricted)
-      ..loadRequest(Uri.parse('https://life-flow-six.vercel.app/'));
+      ..loadRequest(Uri.parse('https://bhinnashad.com/'));
   }
 
   @override
